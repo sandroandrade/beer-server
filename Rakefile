@@ -1,2 +1,2 @@
-require './ppgesp-server'
+require './ifbabooks-server.rb'
 require 'sinatra/activerecord/rake'
